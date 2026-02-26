@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #e8f5e9;
+    color: #333;
+}
+
+header {
+    background: linear-gradient(90deg, #0f3d1f, #1b5e20);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    width: 160px;
+    margin-bottom: 10px;
+}
+
+nav {
+    background-color: #145a32;
+    padding: 12px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ffd700;
+}
+
+section {
+    padding: 40px;
+    margin: 30px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+footer {
+    background-color: #0f3d1f;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
